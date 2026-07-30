@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinjeong-massage-note.cityjot.shop/sitemap.xml
+Sitemap: https://sinjeong-massage-note.cityjot.shop/sitemap-pages.xml
